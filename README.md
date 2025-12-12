@@ -1,1 +1,1 @@
-# HustleGPT
+Hustle GPT is your all-in-one automation powerhouse — streamlining workflows, optimizing operations, and powering smarter, faster digital growth. From AI-driven systems to hands-free business tools, we help you automate the busywork so you can focus on scaling what matters.
